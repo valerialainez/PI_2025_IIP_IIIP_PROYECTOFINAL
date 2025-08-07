@@ -1,7 +1,0 @@
-C:\Users\ELFACZY\Desktop\Work Archives\Programación I\Proyectos Personales\PI_2025_II_3P_GUIPROYECTO\PI_2025_II_3P_GUIPROYECTO\obj\Debug\PI_2025_II_3P_GUIPROYECTO.csproj.AssemblyReference.cache
-C:\Users\ELFACZY\Desktop\Work Archives\Programación I\Proyectos Personales\PI_2025_II_3P_GUIPROYECTO\PI_2025_II_3P_GUIPROYECTO\obj\Debug\PI_2025_II_3P_GUIPROYECTO.GUI.frmCarro.resources
-C:\Users\ELFACZY\Desktop\Work Archives\Programación I\Proyectos Personales\PI_2025_II_3P_GUIPROYECTO\PI_2025_II_3P_GUIPROYECTO\obj\Debug\PI_2025_II_3P_GUIPROYECTO.GUI.frmHistorial.resources
-C:\Users\ELFACZY\Desktop\Work Archives\Programación I\Proyectos Personales\PI_2025_II_3P_GUIPROYECTO\PI_2025_II_3P_GUIPROYECTO\obj\Debug\PI_2025_II_3P_GUIPROYECTO.GUI.frmMoto.resources
-C:\Users\ELFACZY\Desktop\Work Archives\Programación I\Proyectos Personales\PI_2025_II_3P_GUIPROYECTO\PI_2025_II_3P_GUIPROYECTO\obj\Debug\PI_2025_II_3P_GUIPROYECTO.Properties.Resources.resources
-C:\Users\ELFACZY\Desktop\Work Archives\Programación I\Proyectos Personales\PI_2025_II_3P_GUIPROYECTO\PI_2025_II_3P_GUIPROYECTO\obj\Debug\PI_2025_II_3P_GUIPROYECTO.csproj.GenerateResource.cache
-C:\Users\ELFACZY\Desktop\Work Archives\Programación I\Proyectos Personales\PI_2025_II_3P_GUIPROYECTO\PI_2025_II_3P_GUIPROYECTO\obj\Debug\PI_2025_II_3P_GUIPROYECTO.csproj.CoreCompileInputs.cache
