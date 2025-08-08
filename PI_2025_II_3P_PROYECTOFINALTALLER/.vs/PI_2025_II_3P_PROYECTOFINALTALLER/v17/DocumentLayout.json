@@ -3,115 +3,139 @@
   "WorkspaceRootPath": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\clases\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\clases\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmservicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmservicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmservicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmproveedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmproveedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmproveedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmorden.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmorden.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmorden.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmoto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmoto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmoto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuregistrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuregistrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuregistrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmaterial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmaterial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmmaterial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmhistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmhistorial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmhistorial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmhistorial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmfactura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmfactura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmfactura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmempleado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcita.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcita.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcita.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PI_2025_IIP_IIIP_PROYECTOFINALTALLER||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\gui\\frmcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|c:\\users\\valer\\source\\repos\\pi_2025_iip_iiip_proyectofinaltaller\\pi_2025_ii_3p_proyectofinaltaller\\pi_2025_iip_iiip_proyectofinaltaller\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D52B4819-3D4C-48B6-9CCE-C84B04F4FEC2}|PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj|solutionrelative:pi_2025_iip_iiip_proyectofinaltaller\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -129,20 +153,144 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmServicio.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmServicio.Designer.cs",
-              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmServicio.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmServicio.Designer.cs",
-              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmServicio.Designer.cs",
-              "ViewState": "AgIAAAEBAAAAAAAAAAAswBUBAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:23:12.541Z",
+              "DocumentIndex": 3,
+              "Title": "frmCarro.resx",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.resx",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.resx",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.resx",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-08T00:59:03.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmCita.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:58:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmFactura.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.cs",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.cs",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:46:18.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\clases\\Proveedor.cs",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\clases\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\clases\\Proveedor.cs",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\clases\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:38:35.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:37:02.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmProveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:22:48.195Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmOrden.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.cs",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:22:28.091Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCarro.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:15:33.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCita.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:16:50.727Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.cs",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:19:52.363Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.cs",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:20:06.88Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "frmServicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmServicio.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmServicio.cs",
@@ -154,302 +302,268 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
+              "Title": "frmServicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmServicio.Designer.cs",
+              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmServicio.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmServicio.Designer.cs",
+              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmServicio.Designer.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAswBUBAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:23:12.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "frmProveedor.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.Designer.cs",
-              "ViewState": "AgIAAPoAAAAAAAAAAAAswA4BAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAswAEBAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:22:49.631Z"
+              "WhenOpened": "2025-08-07T23:22:49.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmProveedor.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs",
-              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmProveedor.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:22:48.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "frmOrden.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.Designer.cs",
-              "ViewState": "AgIAADUBAAAAAAAAAAAswEkBAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAswPoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:22:29.52Z"
+              "WhenOpened": "2025-08-07T23:22:29.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmOrden.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.cs",
-              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmOrden.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:22:28.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "frmMoto.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMoto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMoto.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMoto.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMoto.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMoto.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMoto.Designer.cs",
               "ViewState": "AgIAADYBAAAAAAAAAAAswEoBAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:22:20.02Z"
+              "WhenOpened": "2025-08-07T23:22:20.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "frmMoto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMoto.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMoto.cs",
               "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMoto.cs [Dise\u00F1o]",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMoto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:22:18.481Z"
+              "WhenOpened": "2025-08-07T23:22:18.481Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "frmMenuRegistrar.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuRegistrar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuRegistrar.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuRegistrar.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuRegistrar.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuRegistrar.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuRegistrar.Designer.cs",
               "ViewState": "AgIAALkAAAAAAAAAAAAswM0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:22:12.344Z"
+              "WhenOpened": "2025-08-07T23:22:12.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "frmMenuRegistrar.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuRegistrar.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuRegistrar.cs",
               "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuRegistrar.cs [Dise\u00F1o]",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuRegistrar.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:22:11.146Z"
+              "WhenOpened": "2025-08-07T23:22:11.146Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "frmMenuPrincipal.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuPrincipal.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuPrincipal.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuPrincipal.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuPrincipal.Designer.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAswFgAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:22:03.361Z"
+              "WhenOpened": "2025-08-07T23:22:03.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "frmMenuPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuPrincipal.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuPrincipal.cs",
               "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMenuPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:22:02.241Z"
+              "WhenOpened": "2025-08-07T23:22:02.241Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "frmMaterial.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMaterial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMaterial.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMaterial.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMaterial.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMaterial.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMaterial.Designer.cs",
               "ViewState": "AgIAABsBAAAAAAAAAAAswC8BAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:21:32.256Z"
+              "WhenOpened": "2025-08-07T23:21:32.256Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "frmMaterial.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMaterial.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMaterial.cs",
               "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMaterial.cs [Dise\u00F1o]",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmMaterial.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:21:31.091Z"
+              "WhenOpened": "2025-08-07T23:21:31.091Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "frmHistorial.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmHistorial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmHistorial.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmHistorial.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmHistorial.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmHistorial.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmHistorial.Designer.cs",
               "ViewState": "AgIAADYBAAAAAAAAAAAswEoBAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:20:56.342Z"
+              "WhenOpened": "2025-08-07T23:20:56.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "frmHistorial.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmHistorial.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmHistorial.cs",
               "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmHistorial.cs [Dise\u00F1o]",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmHistorial.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:20:54.74Z"
+              "WhenOpened": "2025-08-07T23:20:54.74Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "frmFactura.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.Designer.cs",
               "ViewState": "AgIAAGIBAAAAAAAAAAAswHYBAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:20:33.08Z"
+              "WhenOpened": "2025-08-07T23:20:33.08Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "frmFactura.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.cs",
               "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.cs [Dise\u00F1o]",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmFactura.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:20:31.32Z"
+              "WhenOpened": "2025-08-07T23:20:31.32Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "frmEmpleado.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.Designer.cs",
               "ViewState": "AgIAAI0BAAAAAAAAAAAswKEBAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:20:08.267Z"
+              "WhenOpened": "2025-08-07T23:20:08.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "frmEmpleado.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.cs",
-              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmEmpleado.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:20:06.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "frmCliente.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.Designer.cs",
               "ViewState": "AgIAAG0BAAAAAAAAAAAswIEBAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:19:54.356Z"
+              "WhenOpened": "2025-08-07T23:19:54.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "frmCliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.cs",
-              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCliente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:19:52.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "frmCita.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.Designer.cs",
-              "ViewState": "AgIAAE8BAAAAAAAAAAD4v1oBAAB0AAAAAAAAAA==",
+              "ViewState": "AgIAAAABAAAAAAAAAAD4vwsBAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:16:52.183Z"
+              "WhenOpened": "2025-08-07T23:16:52.183Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "frmCita.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs",
-              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCita.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:16:50.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "frmCarro.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.Designer.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.Designer.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.Designer.cs",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.Designer.cs",
               "ViewState": "AgIAAFQBAAAAAAAAAAD4v18BAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:16:05.267Z"
+              "WhenOpened": "2025-08-07T23:16:05.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "frmCarro.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs",
               "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs [Dise\u00F1o]",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:16:02.032Z"
+              "WhenOpened": "2025-08-07T23:16:02.032Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj",
+              "DocumentMoniker": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj",
               "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj",
+              "ToolTip": "C:\\Users\\valer\\Source\\Repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj",
               "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-07T23:15:40.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "frmCarro.cs",
-              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs",
-              "RelativeDocumentMoniker": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs",
-              "ToolTip": "C:\\Users\\valer\\source\\repos\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\PI_2025_II_3P_PROYECTOFINALTALLER\\PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs",
-              "RelativeToolTip": "PI_2025_IIP_IIIP_PROYECTOFINALTALLER\\GUI\\frmCarro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:15:33.462Z"
+              "WhenOpened": "2025-08-07T23:15:40.701Z",
+              "EditorCaption": ""
             }
           ]
         }
