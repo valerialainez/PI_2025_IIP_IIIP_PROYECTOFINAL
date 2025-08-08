@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmProveedor));
-            this.txtFechaRegistro = new System.Windows.Forms.TextBox();
             this.txtTelefonoProveedor = new System.Windows.Forms.TextBox();
             this.lbltítulo = new System.Windows.Forms.Label();
             this.dgvResumen = new System.Windows.Forms.DataGridView();
@@ -38,7 +37,6 @@
             this.btnActualizar = new System.Windows.Forms.Button();
             this.btnBuscar = new System.Windows.Forms.Button();
             this.btnAgregar = new System.Windows.Forms.Button();
-            this.txtMaterialSolicitado = new System.Windows.Forms.TextBox();
             this.txtDireccionEmpresa = new System.Windows.Forms.TextBox();
             this.txtCorreoProveedor = new System.Windows.Forms.TextBox();
             this.txtContacto = new System.Windows.Forms.TextBox();
@@ -53,16 +51,11 @@
             this.lblICorreo = new System.Windows.Forms.Label();
             this.lblIDProveedor = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.dtpFechaNacimientoEmpleado = new System.Windows.Forms.DateTimePicker();
+            this.cmbSexoCliente = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvResumen)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // txtFechaRegistro
-            // 
-            this.txtFechaRegistro.Location = new System.Drawing.Point(246, 355);
-            this.txtFechaRegistro.Name = "txtFechaRegistro";
-            this.txtFechaRegistro.Size = new System.Drawing.Size(154, 20);
-            this.txtFechaRegistro.TabIndex = 101;
             // 
             // txtTelefonoProveedor
             // 
@@ -143,13 +136,7 @@
             this.btnAgregar.TabIndex = 93;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = false;
-            // 
-            // txtMaterialSolicitado
-            // 
-            this.txtMaterialSolicitado.Location = new System.Drawing.Point(246, 320);
-            this.txtMaterialSolicitado.Name = "txtMaterialSolicitado";
-            this.txtMaterialSolicitado.Size = new System.Drawing.Size(154, 20);
-            this.txtMaterialSolicitado.TabIndex = 92;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // txtDireccionEmpresa
             // 
@@ -276,14 +263,36 @@
             this.pictureBox1.TabIndex = 102;
             this.pictureBox1.TabStop = false;
             // 
+            // dtpFechaNacimientoEmpleado
+            // 
+            this.dtpFechaNacimientoEmpleado.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtpFechaNacimientoEmpleado.Location = new System.Drawing.Point(243, 355);
+            this.dtpFechaNacimientoEmpleado.Margin = new System.Windows.Forms.Padding(4);
+            this.dtpFechaNacimientoEmpleado.Name = "dtpFechaNacimientoEmpleado";
+            this.dtpFechaNacimientoEmpleado.Size = new System.Drawing.Size(157, 20);
+            this.dtpFechaNacimientoEmpleado.TabIndex = 103;
+            // 
+            // cmbSexoCliente
+            // 
+            this.cmbSexoCliente.FormattingEnabled = true;
+            this.cmbSexoCliente.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.cmbSexoCliente.Location = new System.Drawing.Point(243, 319);
+            this.cmbSexoCliente.Margin = new System.Windows.Forms.Padding(4);
+            this.cmbSexoCliente.Name = "cmbSexoCliente";
+            this.cmbSexoCliente.Size = new System.Drawing.Size(154, 21);
+            this.cmbSexoCliente.TabIndex = 104;
+            // 
             // frmProveedor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 598);
+            this.Controls.Add(this.cmbSexoCliente);
+            this.Controls.Add(this.dtpFechaNacimientoEmpleado);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.txtFechaRegistro);
             this.Controls.Add(this.txtTelefonoProveedor);
             this.Controls.Add(this.lbltítulo);
             this.Controls.Add(this.dgvResumen);
@@ -292,7 +301,6 @@
             this.Controls.Add(this.btnActualizar);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.btnAgregar);
-            this.Controls.Add(this.txtMaterialSolicitado);
             this.Controls.Add(this.txtDireccionEmpresa);
             this.Controls.Add(this.txtCorreoProveedor);
             this.Controls.Add(this.txtContacto);
@@ -317,8 +325,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox txtFechaRegistro;
         private System.Windows.Forms.TextBox txtTelefonoProveedor;
         private System.Windows.Forms.Label lbltítulo;
         private System.Windows.Forms.DataGridView dgvResumen;
@@ -327,7 +333,6 @@
         private System.Windows.Forms.Button btnActualizar;
         private System.Windows.Forms.Button btnBuscar;
         private System.Windows.Forms.Button btnAgregar;
-        private System.Windows.Forms.TextBox txtMaterialSolicitado;
         private System.Windows.Forms.TextBox txtDireccionEmpresa;
         private System.Windows.Forms.TextBox txtCorreoProveedor;
         private System.Windows.Forms.TextBox txtContacto;
@@ -342,5 +347,7 @@
         private System.Windows.Forms.Label lblICorreo;
         private System.Windows.Forms.Label lblIDProveedor;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.DateTimePicker dtpFechaNacimientoEmpleado;
+        private System.Windows.Forms.ComboBox cmbSexoCliente;
     }
 }

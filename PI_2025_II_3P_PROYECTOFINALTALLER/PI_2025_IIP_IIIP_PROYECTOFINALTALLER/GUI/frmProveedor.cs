@@ -16,5 +16,23 @@ namespace PI_IIP_IIIP_PROYECTO_.GUI
         {
             InitializeComponent();
         }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            {
+                try
+                {
+                    
+                }
+                catch (Exception)
+                {
+
+                    throw;
+                }
+
+
+
+            }
+        }
     }
 }

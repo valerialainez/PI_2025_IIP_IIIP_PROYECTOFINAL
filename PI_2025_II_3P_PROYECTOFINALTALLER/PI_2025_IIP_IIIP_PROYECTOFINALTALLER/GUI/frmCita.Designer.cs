@@ -32,11 +32,7 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmCita));
             this.grbEstadoCita = new System.Windows.Forms.GroupBox();
-            this.chkDenegada = new System.Windows.Forms.CheckBox();
-            this.chkAprobada = new System.Windows.Forms.CheckBox();
-            this.chkPendiente = new System.Windows.Forms.CheckBox();
             this.txtObservaciones = new System.Windows.Forms.TextBox();
-            this.txtFechaHora = new System.Windows.Forms.TextBox();
             this.lbltítulo = new System.Windows.Forms.Label();
             this.dgvResumen = new System.Windows.Forms.DataGridView();
             this.btnEliminar = new System.Windows.Forms.Button();
@@ -44,12 +40,6 @@
             this.btnActualizar = new System.Windows.Forms.Button();
             this.btnBuscar = new System.Windows.Forms.Button();
             this.btnAgregar = new System.Windows.Forms.Button();
-            this.txtEmpleado = new System.Windows.Forms.TextBox();
-            this.txtMotivoVisita = new System.Windows.Forms.TextBox();
-            this.txtIDCita = new System.Windows.Forms.TextBox();
-            this.txtPlaca = new System.Windows.Forms.TextBox();
-            this.txtTelefono = new System.Windows.Forms.TextBox();
-            this.txtID = new System.Windows.Forms.TextBox();
             this.lblTelefono = new System.Windows.Forms.Label();
             this.lblObservaciones = new System.Windows.Forms.Label();
             this.lblEmpleado = new System.Windows.Forms.Label();
@@ -60,6 +50,16 @@
             this.lblIDcita = new System.Windows.Forms.Label();
             this.lblID = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.dtpFechaNacimientoEmpleado = new System.Windows.Forms.DateTimePicker();
+            this.cmbSexoCliente = new System.Windows.Forms.ComboBox();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.rbtDenegada = new System.Windows.Forms.RadioButton();
+            this.rbtConfirmada = new System.Windows.Forms.RadioButton();
+            this.rbtPendiente = new System.Windows.Forms.RadioButton();
+            this.comboBox4 = new System.Windows.Forms.ComboBox();
+            this.comboBox5 = new System.Windows.Forms.ComboBox();
             this.grbEstadoCita.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvResumen)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -67,9 +67,9 @@
             // 
             // grbEstadoCita
             // 
-            this.grbEstadoCita.Controls.Add(this.chkDenegada);
-            this.grbEstadoCita.Controls.Add(this.chkAprobada);
-            this.grbEstadoCita.Controls.Add(this.chkPendiente);
+            this.grbEstadoCita.Controls.Add(this.rbtPendiente);
+            this.grbEstadoCita.Controls.Add(this.rbtConfirmada);
+            this.grbEstadoCita.Controls.Add(this.rbtDenegada);
             this.grbEstadoCita.Location = new System.Drawing.Point(294, 281);
             this.grbEstadoCita.Name = "grbEstadoCita";
             this.grbEstadoCita.Size = new System.Drawing.Size(200, 100);
@@ -77,49 +77,12 @@
             this.grbEstadoCita.TabStop = false;
             this.grbEstadoCita.Text = "Agenda de citas";
             // 
-            // chkDenegada
-            // 
-            this.chkDenegada.AutoSize = true;
-            this.chkDenegada.Location = new System.Drawing.Point(7, 62);
-            this.chkDenegada.Name = "chkDenegada";
-            this.chkDenegada.Size = new System.Drawing.Size(76, 17);
-            this.chkDenegada.TabIndex = 2;
-            this.chkDenegada.Text = "Denegada";
-            this.chkDenegada.UseVisualStyleBackColor = true;
-            // 
-            // chkAprobada
-            // 
-            this.chkAprobada.AutoSize = true;
-            this.chkAprobada.Location = new System.Drawing.Point(7, 38);
-            this.chkAprobada.Name = "chkAprobada";
-            this.chkAprobada.Size = new System.Drawing.Size(72, 17);
-            this.chkAprobada.TabIndex = 1;
-            this.chkAprobada.Text = "Aprobada";
-            this.chkAprobada.UseVisualStyleBackColor = true;
-            // 
-            // chkPendiente
-            // 
-            this.chkPendiente.AutoSize = true;
-            this.chkPendiente.Location = new System.Drawing.Point(7, 14);
-            this.chkPendiente.Name = "chkPendiente";
-            this.chkPendiente.Size = new System.Drawing.Size(74, 17);
-            this.chkPendiente.TabIndex = 0;
-            this.chkPendiente.Text = "Pendiente";
-            this.chkPendiente.UseVisualStyleBackColor = true;
-            // 
             // txtObservaciones
             // 
             this.txtObservaciones.Location = new System.Drawing.Point(294, 449);
             this.txtObservaciones.Name = "txtObservaciones";
             this.txtObservaciones.Size = new System.Drawing.Size(154, 20);
             this.txtObservaciones.TabIndex = 78;
-            // 
-            // txtFechaHora
-            // 
-            this.txtFechaHora.Location = new System.Drawing.Point(294, 183);
-            this.txtFechaHora.Name = "txtFechaHora";
-            this.txtFechaHora.Size = new System.Drawing.Size(154, 20);
-            this.txtFechaHora.TabIndex = 77;
             // 
             // lbltítulo
             // 
@@ -209,48 +172,6 @@
             this.btnAgregar.TabIndex = 70;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = false;
-            // 
-            // txtEmpleado
-            // 
-            this.txtEmpleado.Location = new System.Drawing.Point(294, 408);
-            this.txtEmpleado.Name = "txtEmpleado";
-            this.txtEmpleado.Size = new System.Drawing.Size(154, 20);
-            this.txtEmpleado.TabIndex = 69;
-            // 
-            // txtMotivoVisita
-            // 
-            this.txtMotivoVisita.Location = new System.Drawing.Point(294, 249);
-            this.txtMotivoVisita.Name = "txtMotivoVisita";
-            this.txtMotivoVisita.Size = new System.Drawing.Size(154, 20);
-            this.txtMotivoVisita.TabIndex = 68;
-            // 
-            // txtIDCita
-            // 
-            this.txtIDCita.Location = new System.Drawing.Point(294, 215);
-            this.txtIDCita.Name = "txtIDCita";
-            this.txtIDCita.Size = new System.Drawing.Size(154, 20);
-            this.txtIDCita.TabIndex = 67;
-            // 
-            // txtPlaca
-            // 
-            this.txtPlaca.Location = new System.Drawing.Point(294, 146);
-            this.txtPlaca.Name = "txtPlaca";
-            this.txtPlaca.Size = new System.Drawing.Size(154, 20);
-            this.txtPlaca.TabIndex = 66;
-            // 
-            // txtTelefono
-            // 
-            this.txtTelefono.Location = new System.Drawing.Point(294, 109);
-            this.txtTelefono.Name = "txtTelefono";
-            this.txtTelefono.Size = new System.Drawing.Size(154, 20);
-            this.txtTelefono.TabIndex = 65;
-            // 
-            // txtID
-            // 
-            this.txtID.Location = new System.Drawing.Point(294, 78);
-            this.txtID.Name = "txtID";
-            this.txtID.Size = new System.Drawing.Size(154, 20);
-            this.txtID.TabIndex = 64;
             // 
             // lblTelefono
             // 
@@ -352,16 +273,136 @@
             this.pictureBox1.TabIndex = 80;
             this.pictureBox1.TabStop = false;
             // 
+            // dtpFechaNacimientoEmpleado
+            // 
+            this.dtpFechaNacimientoEmpleado.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtpFechaNacimientoEmpleado.Location = new System.Drawing.Point(294, 178);
+            this.dtpFechaNacimientoEmpleado.Margin = new System.Windows.Forms.Padding(4);
+            this.dtpFechaNacimientoEmpleado.Name = "dtpFechaNacimientoEmpleado";
+            this.dtpFechaNacimientoEmpleado.Size = new System.Drawing.Size(157, 20);
+            this.dtpFechaNacimientoEmpleado.TabIndex = 81;
+            // 
+            // cmbSexoCliente
+            // 
+            this.cmbSexoCliente.FormattingEnabled = true;
+            this.cmbSexoCliente.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.cmbSexoCliente.Location = new System.Drawing.Point(294, 77);
+            this.cmbSexoCliente.Margin = new System.Windows.Forms.Padding(4);
+            this.cmbSexoCliente.Name = "cmbSexoCliente";
+            this.cmbSexoCliente.Size = new System.Drawing.Size(154, 21);
+            this.cmbSexoCliente.TabIndex = 82;
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.comboBox1.Location = new System.Drawing.Point(294, 108);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(154, 21);
+            this.comboBox1.TabIndex = 83;
+            // 
+            // comboBox2
+            // 
+            this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.comboBox2.Location = new System.Drawing.Point(294, 215);
+            this.comboBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBox2.Name = "comboBox2";
+            this.comboBox2.Size = new System.Drawing.Size(154, 21);
+            this.comboBox2.TabIndex = 84;
+            // 
+            // comboBox3
+            // 
+            this.comboBox3.FormattingEnabled = true;
+            this.comboBox3.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.comboBox3.Location = new System.Drawing.Point(294, 248);
+            this.comboBox3.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBox3.Name = "comboBox3";
+            this.comboBox3.Size = new System.Drawing.Size(154, 21);
+            this.comboBox3.TabIndex = 85;
+            // 
+            // rbtDenegada
+            // 
+            this.rbtDenegada.AutoSize = true;
+            this.rbtDenegada.Location = new System.Drawing.Point(7, 20);
+            this.rbtDenegada.Name = "rbtDenegada";
+            this.rbtDenegada.Size = new System.Drawing.Size(75, 17);
+            this.rbtDenegada.TabIndex = 0;
+            this.rbtDenegada.TabStop = true;
+            this.rbtDenegada.Text = "Denegada";
+            this.rbtDenegada.UseVisualStyleBackColor = true;
+            // 
+            // rbtConfirmada
+            // 
+            this.rbtConfirmada.AutoSize = true;
+            this.rbtConfirmada.Location = new System.Drawing.Point(7, 43);
+            this.rbtConfirmada.Name = "rbtConfirmada";
+            this.rbtConfirmada.Size = new System.Drawing.Size(78, 17);
+            this.rbtConfirmada.TabIndex = 1;
+            this.rbtConfirmada.TabStop = true;
+            this.rbtConfirmada.Text = "Confirmada";
+            this.rbtConfirmada.UseVisualStyleBackColor = true;
+            // 
+            // rbtPendiente
+            // 
+            this.rbtPendiente.AutoSize = true;
+            this.rbtPendiente.Location = new System.Drawing.Point(7, 66);
+            this.rbtPendiente.Name = "rbtPendiente";
+            this.rbtPendiente.Size = new System.Drawing.Size(73, 17);
+            this.rbtPendiente.TabIndex = 2;
+            this.rbtPendiente.TabStop = true;
+            this.rbtPendiente.Text = "Pendiente";
+            this.rbtPendiente.UseVisualStyleBackColor = true;
+            // 
+            // comboBox4
+            // 
+            this.comboBox4.FormattingEnabled = true;
+            this.comboBox4.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.comboBox4.Location = new System.Drawing.Point(294, 407);
+            this.comboBox4.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBox4.Name = "comboBox4";
+            this.comboBox4.Size = new System.Drawing.Size(154, 21);
+            this.comboBox4.TabIndex = 86;
+            // 
+            // comboBox5
+            // 
+            this.comboBox5.FormattingEnabled = true;
+            this.comboBox5.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.comboBox5.Location = new System.Drawing.Point(294, 146);
+            this.comboBox5.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBox5.Name = "comboBox5";
+            this.comboBox5.Size = new System.Drawing.Size(154, 21);
+            this.comboBox5.TabIndex = 87;
+            // 
             // frmCita
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(816, 685);
+            this.Controls.Add(this.comboBox5);
+            this.Controls.Add(this.comboBox4);
+            this.Controls.Add(this.comboBox3);
+            this.Controls.Add(this.comboBox2);
+            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cmbSexoCliente);
+            this.Controls.Add(this.dtpFechaNacimientoEmpleado);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.grbEstadoCita);
             this.Controls.Add(this.txtObservaciones);
-            this.Controls.Add(this.txtFechaHora);
             this.Controls.Add(this.lbltítulo);
             this.Controls.Add(this.dgvResumen);
             this.Controls.Add(this.btnEliminar);
@@ -369,12 +410,6 @@
             this.Controls.Add(this.btnActualizar);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.btnAgregar);
-            this.Controls.Add(this.txtEmpleado);
-            this.Controls.Add(this.txtMotivoVisita);
-            this.Controls.Add(this.txtIDCita);
-            this.Controls.Add(this.txtPlaca);
-            this.Controls.Add(this.txtTelefono);
-            this.Controls.Add(this.txtID);
             this.Controls.Add(this.lblTelefono);
             this.Controls.Add(this.lblObservaciones);
             this.Controls.Add(this.lblEmpleado);
@@ -399,11 +434,7 @@
         #endregion
 
         private System.Windows.Forms.GroupBox grbEstadoCita;
-        private System.Windows.Forms.CheckBox chkDenegada;
-        private System.Windows.Forms.CheckBox chkAprobada;
-        private System.Windows.Forms.CheckBox chkPendiente;
         private System.Windows.Forms.TextBox txtObservaciones;
-        private System.Windows.Forms.TextBox txtFechaHora;
         private System.Windows.Forms.Label lbltítulo;
         private System.Windows.Forms.DataGridView dgvResumen;
         private System.Windows.Forms.Button btnEliminar;
@@ -411,12 +442,6 @@
         private System.Windows.Forms.Button btnActualizar;
         private System.Windows.Forms.Button btnBuscar;
         private System.Windows.Forms.Button btnAgregar;
-        private System.Windows.Forms.TextBox txtEmpleado;
-        private System.Windows.Forms.TextBox txtMotivoVisita;
-        private System.Windows.Forms.TextBox txtIDCita;
-        private System.Windows.Forms.TextBox txtPlaca;
-        private System.Windows.Forms.TextBox txtTelefono;
-        private System.Windows.Forms.TextBox txtID;
         private System.Windows.Forms.Label lblTelefono;
         private System.Windows.Forms.Label lblObservaciones;
         private System.Windows.Forms.Label lblEmpleado;
@@ -427,5 +452,15 @@
         private System.Windows.Forms.Label lblIDcita;
         private System.Windows.Forms.Label lblID;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.DateTimePicker dtpFechaNacimientoEmpleado;
+        private System.Windows.Forms.ComboBox cmbSexoCliente;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox comboBox2;
+        private System.Windows.Forms.RadioButton rbtPendiente;
+        private System.Windows.Forms.RadioButton rbtConfirmada;
+        private System.Windows.Forms.RadioButton rbtDenegada;
+        private System.Windows.Forms.ComboBox comboBox3;
+        private System.Windows.Forms.ComboBox comboBox4;
+        private System.Windows.Forms.ComboBox comboBox5;
     }
 }

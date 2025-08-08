@@ -30,23 +30,13 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmOrden));
             this.grbEstadoOrden = new System.Windows.Forms.GroupBox();
-            this.chkProceso = new System.Windows.Forms.CheckBox();
-            this.chkPendiente = new System.Windows.Forms.CheckBox();
-            this.chkFinalizado = new System.Windows.Forms.CheckBox();
             this.dgvResumen = new System.Windows.Forms.DataGridView();
             this.btnEliminar = new System.Windows.Forms.Button();
             this.btnListar = new System.Windows.Forms.Button();
             this.btnActualizar = new System.Windows.Forms.Button();
             this.btnBuscar = new System.Windows.Forms.Button();
             this.btnAgregar = new System.Windows.Forms.Button();
-            this.txtFechaEntrega = new System.Windows.Forms.TextBox();
             this.cmbServicio = new System.Windows.Forms.ComboBox();
-            this.txtEmpleadoAsignado = new System.Windows.Forms.TextBox();
-            this.txtVehiculo = new System.Windows.Forms.TextBox();
-            this.txtCliente = new System.Windows.Forms.TextBox();
-            this.txtFechaInicio = new System.Windows.Forms.TextBox();
-            this.txtNumeroOrden = new System.Windows.Forms.TextBox();
-            this.txtID = new System.Windows.Forms.TextBox();
             this.lblFechaFinal = new System.Windows.Forms.Label();
             this.lblServicio = new System.Windows.Forms.Label();
             this.lblEmpleado = new System.Windows.Forms.Label();
@@ -58,6 +48,16 @@
             this.lblID = new System.Windows.Forms.Label();
             this.lbltítulo = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.cmbSexoCliente = new System.Windows.Forms.ComboBox();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.dtpFechaNacimientoEmpleado = new System.Windows.Forms.DateTimePicker();
+            this.rbtFinalizada = new System.Windows.Forms.RadioButton();
+            this.rbtPendiente = new System.Windows.Forms.RadioButton();
+            this.rbtEnProceso = new System.Windows.Forms.RadioButton();
+            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.comboBox4 = new System.Windows.Forms.ComboBox();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.grbEstadoOrden.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvResumen)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -65,45 +65,15 @@
             // 
             // grbEstadoOrden
             // 
-            this.grbEstadoOrden.Controls.Add(this.chkProceso);
-            this.grbEstadoOrden.Controls.Add(this.chkPendiente);
-            this.grbEstadoOrden.Controls.Add(this.chkFinalizado);
+            this.grbEstadoOrden.Controls.Add(this.rbtEnProceso);
+            this.grbEstadoOrden.Controls.Add(this.rbtPendiente);
+            this.grbEstadoOrden.Controls.Add(this.rbtFinalizada);
             this.grbEstadoOrden.Location = new System.Drawing.Point(217, 209);
             this.grbEstadoOrden.Name = "grbEstadoOrden";
             this.grbEstadoOrden.Size = new System.Drawing.Size(200, 100);
             this.grbEstadoOrden.TabIndex = 51;
             this.grbEstadoOrden.TabStop = false;
             this.grbEstadoOrden.Text = "Orden de Trabajo";
-            // 
-            // chkProceso
-            // 
-            this.chkProceso.AutoSize = true;
-            this.chkProceso.Location = new System.Drawing.Point(7, 67);
-            this.chkProceso.Name = "chkProceso";
-            this.chkProceso.Size = new System.Drawing.Size(80, 17);
-            this.chkProceso.TabIndex = 2;
-            this.chkProceso.Text = "En proceso";
-            this.chkProceso.UseVisualStyleBackColor = true;
-            // 
-            // chkPendiente
-            // 
-            this.chkPendiente.AutoSize = true;
-            this.chkPendiente.Location = new System.Drawing.Point(7, 43);
-            this.chkPendiente.Name = "chkPendiente";
-            this.chkPendiente.Size = new System.Drawing.Size(74, 17);
-            this.chkPendiente.TabIndex = 1;
-            this.chkPendiente.Text = "Pendiente";
-            this.chkPendiente.UseVisualStyleBackColor = true;
-            // 
-            // chkFinalizado
-            // 
-            this.chkFinalizado.AutoSize = true;
-            this.chkFinalizado.Location = new System.Drawing.Point(7, 19);
-            this.chkFinalizado.Name = "chkFinalizado";
-            this.chkFinalizado.Size = new System.Drawing.Size(73, 17);
-            this.chkFinalizado.TabIndex = 0;
-            this.chkFinalizado.Text = "Finalizada";
-            this.chkFinalizado.UseVisualStyleBackColor = true;
             // 
             // dgvResumen
             // 
@@ -168,13 +138,6 @@
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = false;
             // 
-            // txtFechaEntrega
-            // 
-            this.txtFechaEntrega.Location = new System.Drawing.Point(217, 447);
-            this.txtFechaEntrega.Name = "txtFechaEntrega";
-            this.txtFechaEntrega.Size = new System.Drawing.Size(154, 20);
-            this.txtFechaEntrega.TabIndex = 44;
-            // 
             // cmbServicio
             // 
             this.cmbServicio.FormattingEnabled = true;
@@ -182,48 +145,6 @@
             this.cmbServicio.Name = "cmbServicio";
             this.cmbServicio.Size = new System.Drawing.Size(154, 21);
             this.cmbServicio.TabIndex = 43;
-            // 
-            // txtEmpleadoAsignado
-            // 
-            this.txtEmpleadoAsignado.Location = new System.Drawing.Point(217, 382);
-            this.txtEmpleadoAsignado.Name = "txtEmpleadoAsignado";
-            this.txtEmpleadoAsignado.Size = new System.Drawing.Size(154, 20);
-            this.txtEmpleadoAsignado.TabIndex = 42;
-            // 
-            // txtVehiculo
-            // 
-            this.txtVehiculo.Location = new System.Drawing.Point(217, 351);
-            this.txtVehiculo.Name = "txtVehiculo";
-            this.txtVehiculo.Size = new System.Drawing.Size(154, 20);
-            this.txtVehiculo.TabIndex = 41;
-            // 
-            // txtCliente
-            // 
-            this.txtCliente.Location = new System.Drawing.Point(217, 320);
-            this.txtCliente.Name = "txtCliente";
-            this.txtCliente.Size = new System.Drawing.Size(154, 20);
-            this.txtCliente.TabIndex = 40;
-            // 
-            // txtFechaInicio
-            // 
-            this.txtFechaInicio.Location = new System.Drawing.Point(217, 177);
-            this.txtFechaInicio.Name = "txtFechaInicio";
-            this.txtFechaInicio.Size = new System.Drawing.Size(154, 20);
-            this.txtFechaInicio.TabIndex = 39;
-            // 
-            // txtNumeroOrden
-            // 
-            this.txtNumeroOrden.Location = new System.Drawing.Point(217, 141);
-            this.txtNumeroOrden.Name = "txtNumeroOrden";
-            this.txtNumeroOrden.Size = new System.Drawing.Size(154, 20);
-            this.txtNumeroOrden.TabIndex = 38;
-            // 
-            // txtID
-            // 
-            this.txtID.Location = new System.Drawing.Point(217, 111);
-            this.txtID.Name = "txtID";
-            this.txtID.Size = new System.Drawing.Size(154, 20);
-            this.txtID.TabIndex = 37;
             // 
             // lblFechaFinal
             // 
@@ -335,12 +256,128 @@
             this.pictureBox1.TabIndex = 81;
             this.pictureBox1.TabStop = false;
             // 
+            // cmbSexoCliente
+            // 
+            this.cmbSexoCliente.FormattingEnabled = true;
+            this.cmbSexoCliente.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.cmbSexoCliente.Location = new System.Drawing.Point(217, 110);
+            this.cmbSexoCliente.Margin = new System.Windows.Forms.Padding(4);
+            this.cmbSexoCliente.Name = "cmbSexoCliente";
+            this.cmbSexoCliente.Size = new System.Drawing.Size(154, 21);
+            this.cmbSexoCliente.TabIndex = 83;
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.comboBox1.Location = new System.Drawing.Point(217, 139);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(154, 21);
+            this.comboBox1.TabIndex = 84;
+            // 
+            // dtpFechaNacimientoEmpleado
+            // 
+            this.dtpFechaNacimientoEmpleado.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtpFechaNacimientoEmpleado.Location = new System.Drawing.Point(217, 175);
+            this.dtpFechaNacimientoEmpleado.Margin = new System.Windows.Forms.Padding(4);
+            this.dtpFechaNacimientoEmpleado.Name = "dtpFechaNacimientoEmpleado";
+            this.dtpFechaNacimientoEmpleado.Size = new System.Drawing.Size(157, 20);
+            this.dtpFechaNacimientoEmpleado.TabIndex = 85;
+            // 
+            // rbtFinalizada
+            // 
+            this.rbtFinalizada.AutoSize = true;
+            this.rbtFinalizada.Location = new System.Drawing.Point(7, 20);
+            this.rbtFinalizada.Name = "rbtFinalizada";
+            this.rbtFinalizada.Size = new System.Drawing.Size(69, 17);
+            this.rbtFinalizada.TabIndex = 0;
+            this.rbtFinalizada.TabStop = true;
+            this.rbtFinalizada.Text = "finalizada";
+            this.rbtFinalizada.UseVisualStyleBackColor = true;
+            // 
+            // rbtPendiente
+            // 
+            this.rbtPendiente.Location = new System.Drawing.Point(7, 44);
+            this.rbtPendiente.Name = "rbtPendiente";
+            this.rbtPendiente.Size = new System.Drawing.Size(85, 17);
+            this.rbtPendiente.TabIndex = 0;
+            this.rbtPendiente.TabStop = true;
+            this.rbtPendiente.Text = "Pendiente";
+            this.rbtPendiente.UseVisualStyleBackColor = true;
+            // 
+            // rbtEnProceso
+            // 
+            this.rbtEnProceso.Location = new System.Drawing.Point(7, 68);
+            this.rbtEnProceso.Name = "rbtEnProceso";
+            this.rbtEnProceso.Size = new System.Drawing.Size(85, 17);
+            this.rbtEnProceso.TabIndex = 0;
+            this.rbtEnProceso.TabStop = true;
+            this.rbtEnProceso.Text = "En Proceso";
+            this.rbtEnProceso.UseVisualStyleBackColor = true;
+            // 
+            // comboBox2
+            // 
+            this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.comboBox2.Location = new System.Drawing.Point(217, 319);
+            this.comboBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBox2.Name = "comboBox2";
+            this.comboBox2.Size = new System.Drawing.Size(154, 21);
+            this.comboBox2.TabIndex = 86;
+            // 
+            // comboBox3
+            // 
+            this.comboBox3.FormattingEnabled = true;
+            this.comboBox3.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.comboBox3.Location = new System.Drawing.Point(217, 348);
+            this.comboBox3.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBox3.Name = "comboBox3";
+            this.comboBox3.Size = new System.Drawing.Size(154, 21);
+            this.comboBox3.TabIndex = 87;
+            // 
+            // comboBox4
+            // 
+            this.comboBox4.FormattingEnabled = true;
+            this.comboBox4.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.comboBox4.Location = new System.Drawing.Point(217, 382);
+            this.comboBox4.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBox4.Name = "comboBox4";
+            this.comboBox4.Size = new System.Drawing.Size(154, 21);
+            this.comboBox4.TabIndex = 88;
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateTimePicker1.Location = new System.Drawing.Point(214, 447);
+            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(4);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(157, 20);
+            this.dateTimePicker1.TabIndex = 89;
+            // 
             // frmOrden
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(818, 678);
+            this.Controls.Add(this.dateTimePicker1);
+            this.Controls.Add(this.comboBox4);
+            this.Controls.Add(this.comboBox3);
+            this.Controls.Add(this.comboBox2);
+            this.Controls.Add(this.dtpFechaNacimientoEmpleado);
+            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cmbSexoCliente);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.grbEstadoOrden);
             this.Controls.Add(this.dgvResumen);
@@ -349,14 +386,7 @@
             this.Controls.Add(this.btnActualizar);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.btnAgregar);
-            this.Controls.Add(this.txtFechaEntrega);
             this.Controls.Add(this.cmbServicio);
-            this.Controls.Add(this.txtEmpleadoAsignado);
-            this.Controls.Add(this.txtVehiculo);
-            this.Controls.Add(this.txtCliente);
-            this.Controls.Add(this.txtFechaInicio);
-            this.Controls.Add(this.txtNumeroOrden);
-            this.Controls.Add(this.txtID);
             this.Controls.Add(this.lblFechaFinal);
             this.Controls.Add(this.lblServicio);
             this.Controls.Add(this.lblEmpleado);
@@ -382,23 +412,13 @@
         #endregion
 
         private System.Windows.Forms.GroupBox grbEstadoOrden;
-        private System.Windows.Forms.CheckBox chkProceso;
-        private System.Windows.Forms.CheckBox chkPendiente;
-        private System.Windows.Forms.CheckBox chkFinalizado;
         private System.Windows.Forms.DataGridView dgvResumen;
         private System.Windows.Forms.Button btnEliminar;
         private System.Windows.Forms.Button btnListar;
         private System.Windows.Forms.Button btnActualizar;
         private System.Windows.Forms.Button btnBuscar;
         private System.Windows.Forms.Button btnAgregar;
-        private System.Windows.Forms.TextBox txtFechaEntrega;
         private System.Windows.Forms.ComboBox cmbServicio;
-        private System.Windows.Forms.TextBox txtEmpleadoAsignado;
-        private System.Windows.Forms.TextBox txtVehiculo;
-        private System.Windows.Forms.TextBox txtCliente;
-        private System.Windows.Forms.TextBox txtFechaInicio;
-        private System.Windows.Forms.TextBox txtNumeroOrden;
-        private System.Windows.Forms.TextBox txtID;
         private System.Windows.Forms.Label lblFechaFinal;
         private System.Windows.Forms.Label lblServicio;
         private System.Windows.Forms.Label lblEmpleado;
@@ -410,6 +430,16 @@
         private System.Windows.Forms.Label lblID;
         private System.Windows.Forms.Label lbltítulo;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.ComboBox cmbSexoCliente;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.RadioButton rbtEnProceso;
+        private System.Windows.Forms.RadioButton rbtPendiente;
+        private System.Windows.Forms.RadioButton rbtFinalizada;
+        private System.Windows.Forms.DateTimePicker dtpFechaNacimientoEmpleado;
+        private System.Windows.Forms.ComboBox comboBox2;
+        private System.Windows.Forms.ComboBox comboBox3;
+        private System.Windows.Forms.ComboBox comboBox4;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
     }
 }
 
