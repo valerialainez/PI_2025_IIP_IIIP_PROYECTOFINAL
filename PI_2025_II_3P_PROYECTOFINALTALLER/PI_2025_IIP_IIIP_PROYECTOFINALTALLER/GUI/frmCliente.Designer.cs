@@ -48,13 +48,9 @@
             this.lblFechaNacimientoCliente = new System.Windows.Forms.Label();
             this.dtpFechaNacimientoCliente = new System.Windows.Forms.DateTimePicker();
             this.lblNacionalidadCliente = new System.Windows.Forms.Label();
-            this.txtNacionalidadCliente = new System.Windows.Forms.TextBox();
             this.dtvCliente = new System.Windows.Forms.DataGridView();
             this.lblCliente = new System.Windows.Forms.Label();
             this.lblFrecuenciaCliente = new System.Windows.Forms.Label();
-            this.chkSiFrecuencia = new System.Windows.Forms.CheckBox();
-            this.chkNoFrecuencia = new System.Windows.Forms.CheckBox();
-            this.btnVolverMenuRegistro = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button1 = new System.Windows.Forms.Button();
             this.btnEliminar = new System.Windows.Forms.Button();
@@ -62,6 +58,9 @@
             this.btnActualizar = new System.Windows.Forms.Button();
             this.btnBuscar = new System.Windows.Forms.Button();
             this.btnAgregar = new System.Windows.Forms.Button();
+            this.cmbNacionalidadCliente = new System.Windows.Forms.ComboBox();
+            this.rbtSiFrecuencia = new System.Windows.Forms.RadioButton();
+            this.rbtNoFrecuencia = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.dtvCliente)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -73,7 +72,7 @@
             this.lblIdCliente.Location = new System.Drawing.Point(136, 105);
             this.lblIdCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblIdCliente.Name = "lblIdCliente";
-            this.lblIdCliente.Size = new System.Drawing.Size(76, 16);
+            this.lblIdCliente.Size = new System.Drawing.Size(95, 20);
             this.lblIdCliente.TabIndex = 1;
             this.lblIdCliente.Text = "ID Cliente:";
             // 
@@ -82,7 +81,7 @@
             this.txtIdCliente.Location = new System.Drawing.Point(239, 102);
             this.txtIdCliente.Margin = new System.Windows.Forms.Padding(4);
             this.txtIdCliente.Name = "txtIdCliente";
-            this.txtIdCliente.Size = new System.Drawing.Size(186, 23);
+            this.txtIdCliente.Size = new System.Drawing.Size(186, 27);
             this.txtIdCliente.TabIndex = 2;
             // 
             // lblNombreCliente
@@ -92,7 +91,7 @@
             this.lblNombreCliente.Location = new System.Drawing.Point(151, 164);
             this.lblNombreCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblNombreCliente.Name = "lblNombreCliente";
-            this.lblNombreCliente.Size = new System.Drawing.Size(65, 16);
+            this.lblNombreCliente.Size = new System.Drawing.Size(80, 20);
             this.lblNombreCliente.TabIndex = 3;
             this.lblNombreCliente.Text = "Nombre:";
             // 
@@ -101,7 +100,7 @@
             this.txtNombreCliente.Location = new System.Drawing.Point(239, 161);
             this.txtNombreCliente.Margin = new System.Windows.Forms.Padding(4);
             this.txtNombreCliente.Name = "txtNombreCliente";
-            this.txtNombreCliente.Size = new System.Drawing.Size(336, 23);
+            this.txtNombreCliente.Size = new System.Drawing.Size(336, 27);
             this.txtNombreCliente.TabIndex = 4;
             // 
             // lblApellidoCliente
@@ -111,7 +110,7 @@
             this.lblApellidoCliente.Location = new System.Drawing.Point(148, 199);
             this.lblApellidoCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblApellidoCliente.Name = "lblApellidoCliente";
-            this.lblApellidoCliente.Size = new System.Drawing.Size(67, 16);
+            this.lblApellidoCliente.Size = new System.Drawing.Size(83, 20);
             this.lblApellidoCliente.TabIndex = 5;
             this.lblApellidoCliente.Text = "Apellido:";
             // 
@@ -120,7 +119,7 @@
             this.txtApellidoCliente.Location = new System.Drawing.Point(239, 196);
             this.txtApellidoCliente.Margin = new System.Windows.Forms.Padding(4);
             this.txtApellidoCliente.Name = "txtApellidoCliente";
-            this.txtApellidoCliente.Size = new System.Drawing.Size(336, 23);
+            this.txtApellidoCliente.Size = new System.Drawing.Size(336, 27);
             this.txtApellidoCliente.TabIndex = 6;
             // 
             // lblDniCliente
@@ -130,7 +129,7 @@
             this.lblDniCliente.Location = new System.Drawing.Point(186, 234);
             this.lblDniCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblDniCliente.Name = "lblDniCliente";
-            this.lblDniCliente.Size = new System.Drawing.Size(36, 16);
+            this.lblDniCliente.Size = new System.Drawing.Size(45, 20);
             this.lblDniCliente.TabIndex = 7;
             this.lblDniCliente.Text = "DNI:";
             // 
@@ -139,7 +138,7 @@
             this.txtDniCliente.Location = new System.Drawing.Point(239, 231);
             this.txtDniCliente.Margin = new System.Windows.Forms.Padding(4);
             this.txtDniCliente.Name = "txtDniCliente";
-            this.txtDniCliente.Size = new System.Drawing.Size(278, 23);
+            this.txtDniCliente.Size = new System.Drawing.Size(278, 27);
             this.txtDniCliente.TabIndex = 8;
             // 
             // lblTelefonoCliente
@@ -149,7 +148,7 @@
             this.lblTelefonoCliente.Location = new System.Drawing.Point(113, 269);
             this.lblTelefonoCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblTelefonoCliente.Name = "lblTelefonoCliente";
-            this.lblTelefonoCliente.Size = new System.Drawing.Size(96, 16);
+            this.lblTelefonoCliente.Size = new System.Drawing.Size(118, 20);
             this.lblTelefonoCliente.TabIndex = 9;
             this.lblTelefonoCliente.Text = "No. Teléfono:";
             // 
@@ -158,7 +157,7 @@
             this.txtTelefonoCliente.Location = new System.Drawing.Point(239, 266);
             this.txtTelefonoCliente.Margin = new System.Windows.Forms.Padding(4);
             this.txtTelefonoCliente.Name = "txtTelefonoCliente";
-            this.txtTelefonoCliente.Size = new System.Drawing.Size(278, 23);
+            this.txtTelefonoCliente.Size = new System.Drawing.Size(278, 27);
             this.txtTelefonoCliente.TabIndex = 10;
             // 
             // lblEmailCliente
@@ -168,7 +167,7 @@
             this.lblEmailCliente.Location = new System.Drawing.Point(171, 304);
             this.lblEmailCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblEmailCliente.Name = "lblEmailCliente";
-            this.lblEmailCliente.Size = new System.Drawing.Size(48, 16);
+            this.lblEmailCliente.Size = new System.Drawing.Size(60, 20);
             this.lblEmailCliente.TabIndex = 11;
             this.lblEmailCliente.Text = "Email:";
             // 
@@ -177,7 +176,7 @@
             this.txtEmailCliente.Location = new System.Drawing.Point(239, 301);
             this.txtEmailCliente.Margin = new System.Windows.Forms.Padding(4);
             this.txtEmailCliente.Name = "txtEmailCliente";
-            this.txtEmailCliente.Size = new System.Drawing.Size(336, 23);
+            this.txtEmailCliente.Size = new System.Drawing.Size(336, 27);
             this.txtEmailCliente.TabIndex = 12;
             // 
             // lblDireccionCliente
@@ -187,7 +186,7 @@
             this.lblDireccionCliente.Location = new System.Drawing.Point(137, 339);
             this.lblDireccionCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblDireccionCliente.Name = "lblDireccionCliente";
-            this.lblDireccionCliente.Size = new System.Drawing.Size(75, 16);
+            this.lblDireccionCliente.Size = new System.Drawing.Size(94, 20);
             this.lblDireccionCliente.TabIndex = 13;
             this.lblDireccionCliente.Text = "Dirección:";
             // 
@@ -196,7 +195,7 @@
             this.txtDireccionCliente.Location = new System.Drawing.Point(239, 336);
             this.txtDireccionCliente.Margin = new System.Windows.Forms.Padding(4);
             this.txtDireccionCliente.Name = "txtDireccionCliente";
-            this.txtDireccionCliente.Size = new System.Drawing.Size(336, 23);
+            this.txtDireccionCliente.Size = new System.Drawing.Size(336, 27);
             this.txtDireccionCliente.TabIndex = 14;
             // 
             // lblSexoCliente
@@ -206,7 +205,7 @@
             this.lblSexoCliente.Location = new System.Drawing.Point(177, 374);
             this.lblSexoCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblSexoCliente.Name = "lblSexoCliente";
-            this.lblSexoCliente.Size = new System.Drawing.Size(43, 16);
+            this.lblSexoCliente.Size = new System.Drawing.Size(54, 20);
             this.lblSexoCliente.TabIndex = 15;
             this.lblSexoCliente.Text = "Sexo:";
             // 
@@ -219,7 +218,7 @@
             this.cmbSexoCliente.Location = new System.Drawing.Point(239, 371);
             this.cmbSexoCliente.Margin = new System.Windows.Forms.Padding(4);
             this.cmbSexoCliente.Name = "cmbSexoCliente";
-            this.cmbSexoCliente.Size = new System.Drawing.Size(278, 24);
+            this.cmbSexoCliente.Size = new System.Drawing.Size(278, 28);
             this.cmbSexoCliente.TabIndex = 16;
             // 
             // lblFechaNacimientoCliente
@@ -229,7 +228,7 @@
             this.lblFechaNacimientoCliente.Location = new System.Drawing.Point(69, 412);
             this.lblFechaNacimientoCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblFechaNacimientoCliente.Name = "lblFechaNacimientoCliente";
-            this.lblFechaNacimientoCliente.Size = new System.Drawing.Size(131, 16);
+            this.lblFechaNacimientoCliente.Size = new System.Drawing.Size(162, 20);
             this.lblFechaNacimientoCliente.TabIndex = 17;
             this.lblFechaNacimientoCliente.Text = "Fecha Nacimiento:";
             // 
@@ -239,7 +238,7 @@
             this.dtpFechaNacimientoCliente.Location = new System.Drawing.Point(239, 407);
             this.dtpFechaNacimientoCliente.Margin = new System.Windows.Forms.Padding(4);
             this.dtpFechaNacimientoCliente.Name = "dtpFechaNacimientoCliente";
-            this.dtpFechaNacimientoCliente.Size = new System.Drawing.Size(274, 23);
+            this.dtpFechaNacimientoCliente.Size = new System.Drawing.Size(274, 27);
             this.dtpFechaNacimientoCliente.TabIndex = 18;
             // 
             // lblNacionalidadCliente
@@ -249,17 +248,9 @@
             this.lblNacionalidadCliente.Location = new System.Drawing.Point(107, 445);
             this.lblNacionalidadCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblNacionalidadCliente.Name = "lblNacionalidadCliente";
-            this.lblNacionalidadCliente.Size = new System.Drawing.Size(100, 16);
+            this.lblNacionalidadCliente.Size = new System.Drawing.Size(124, 20);
             this.lblNacionalidadCliente.TabIndex = 19;
             this.lblNacionalidadCliente.Text = "Nacionalidad:";
-            // 
-            // txtNacionalidadCliente
-            // 
-            this.txtNacionalidadCliente.Location = new System.Drawing.Point(239, 442);
-            this.txtNacionalidadCliente.Margin = new System.Windows.Forms.Padding(4);
-            this.txtNacionalidadCliente.Name = "txtNacionalidadCliente";
-            this.txtNacionalidadCliente.Size = new System.Drawing.Size(278, 23);
-            this.txtNacionalidadCliente.TabIndex = 20;
             // 
             // dtvCliente
             // 
@@ -279,7 +270,7 @@
             this.lblCliente.Location = new System.Drawing.Point(331, 40);
             this.lblCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblCliente.Name = "lblCliente";
-            this.lblCliente.Size = new System.Drawing.Size(280, 32);
+            this.lblCliente.Size = new System.Drawing.Size(344, 38);
             this.lblCliente.TabIndex = 27;
             this.lblCliente.Text = "REGISTRO CLIENTE";
             // 
@@ -290,42 +281,9 @@
             this.lblFrecuenciaCliente.Location = new System.Drawing.Point(125, 476);
             this.lblFrecuenciaCliente.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblFrecuenciaCliente.Name = "lblFrecuenciaCliente";
-            this.lblFrecuenciaCliente.Size = new System.Drawing.Size(85, 16);
+            this.lblFrecuenciaCliente.Size = new System.Drawing.Size(106, 20);
             this.lblFrecuenciaCliente.TabIndex = 28;
             this.lblFrecuenciaCliente.Text = "Frecuencia:";
-            // 
-            // chkSiFrecuencia
-            // 
-            this.chkSiFrecuencia.AutoSize = true;
-            this.chkSiFrecuencia.Location = new System.Drawing.Point(239, 476);
-            this.chkSiFrecuencia.Name = "chkSiFrecuencia";
-            this.chkSiFrecuencia.Size = new System.Drawing.Size(39, 20);
-            this.chkSiFrecuencia.TabIndex = 29;
-            this.chkSiFrecuencia.Text = "SI";
-            this.chkSiFrecuencia.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.chkSiFrecuencia.UseVisualStyleBackColor = true;
-            // 
-            // chkNoFrecuencia
-            // 
-            this.chkNoFrecuencia.AutoSize = true;
-            this.chkNoFrecuencia.Location = new System.Drawing.Point(292, 476);
-            this.chkNoFrecuencia.Name = "chkNoFrecuencia";
-            this.chkNoFrecuencia.Size = new System.Drawing.Size(48, 20);
-            this.chkNoFrecuencia.TabIndex = 30;
-            this.chkNoFrecuencia.Text = "NO";
-            this.chkNoFrecuencia.UseVisualStyleBackColor = true;
-            // 
-            // btnVolverMenuRegistro
-            // 
-            this.btnVolverMenuRegistro.BackColor = System.Drawing.Color.Coral;
-            this.btnVolverMenuRegistro.Font = new System.Drawing.Font("Arial Rounded MT Bold", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnVolverMenuRegistro.Location = new System.Drawing.Point(13, 778);
-            this.btnVolverMenuRegistro.Margin = new System.Windows.Forms.Padding(4);
-            this.btnVolverMenuRegistro.Name = "btnVolverMenuRegistro";
-            this.btnVolverMenuRegistro.Size = new System.Drawing.Size(127, 42);
-            this.btnVolverMenuRegistro.TabIndex = 96;
-            this.btnVolverMenuRegistro.Text = "Volver";
-            this.btnVolverMenuRegistro.UseVisualStyleBackColor = false;
             // 
             // pictureBox1
             // 
@@ -354,7 +312,7 @@
             // btnEliminar
             // 
             this.btnEliminar.BackColor = System.Drawing.Color.Coral;
-            this.btnEliminar.Font = new System.Drawing.Font("Montserrat", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEliminar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEliminar.Image = global::PI_2025_IIP_IIIP_PROYECTOFINALTALLER.Properties.Resources.eliminar;
             this.btnEliminar.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.btnEliminar.Location = new System.Drawing.Point(773, 294);
@@ -367,7 +325,7 @@
             // btnListar
             // 
             this.btnListar.BackColor = System.Drawing.Color.Coral;
-            this.btnListar.Font = new System.Drawing.Font("Montserrat", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnListar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnListar.Image = global::PI_2025_IIP_IIIP_PROYECTOFINALTALLER.Properties.Resources.listar;
             this.btnListar.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.btnListar.Location = new System.Drawing.Point(773, 247);
@@ -380,7 +338,7 @@
             // btnActualizar
             // 
             this.btnActualizar.BackColor = System.Drawing.Color.Coral;
-            this.btnActualizar.Font = new System.Drawing.Font("Montserrat", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnActualizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnActualizar.Image = global::PI_2025_IIP_IIIP_PROYECTOFINALTALLER.Properties.Resources.actualizar;
             this.btnActualizar.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.btnActualizar.Location = new System.Drawing.Point(773, 196);
@@ -393,7 +351,7 @@
             // btnBuscar
             // 
             this.btnBuscar.BackColor = System.Drawing.Color.Coral;
-            this.btnBuscar.Font = new System.Drawing.Font("Montserrat", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBuscar.Image = global::PI_2025_IIP_IIIP_PROYECTOFINALTALLER.Properties.Resources.buscar;
             this.btnBuscar.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.btnBuscar.Location = new System.Drawing.Point(773, 147);
@@ -406,7 +364,7 @@
             // btnAgregar
             // 
             this.btnAgregar.BackColor = System.Drawing.Color.Coral;
-            this.btnAgregar.Font = new System.Drawing.Font("Montserrat", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAgregar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAgregar.Image = global::PI_2025_IIP_IIIP_PROYECTOFINALTALLER.Properties.Resources.agregar;
             this.btnAgregar.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.btnAgregar.Location = new System.Drawing.Point(773, 102);
@@ -416,12 +374,49 @@
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = false;
             // 
+            // cmbNacionalidadCliente
+            // 
+            this.cmbNacionalidadCliente.FormattingEnabled = true;
+            this.cmbNacionalidadCliente.Items.AddRange(new object[] {
+            "Masculino",
+            "Femenino"});
+            this.cmbNacionalidadCliente.Location = new System.Drawing.Point(239, 442);
+            this.cmbNacionalidadCliente.Margin = new System.Windows.Forms.Padding(4);
+            this.cmbNacionalidadCliente.Name = "cmbNacionalidadCliente";
+            this.cmbNacionalidadCliente.Size = new System.Drawing.Size(278, 28);
+            this.cmbNacionalidadCliente.TabIndex = 104;
+            // 
+            // rbtSiFrecuencia
+            // 
+            this.rbtSiFrecuencia.AutoSize = true;
+            this.rbtSiFrecuencia.Location = new System.Drawing.Point(238, 474);
+            this.rbtSiFrecuencia.Name = "rbtSiFrecuencia";
+            this.rbtSiFrecuencia.Size = new System.Drawing.Size(46, 24);
+            this.rbtSiFrecuencia.TabIndex = 105;
+            this.rbtSiFrecuencia.TabStop = true;
+            this.rbtSiFrecuencia.Text = "SI";
+            this.rbtSiFrecuencia.UseVisualStyleBackColor = true;
+            // 
+            // rbtNoFrecuencia
+            // 
+            this.rbtNoFrecuencia.AutoSize = true;
+            this.rbtNoFrecuencia.Location = new System.Drawing.Point(290, 474);
+            this.rbtNoFrecuencia.Name = "rbtNoFrecuencia";
+            this.rbtNoFrecuencia.Size = new System.Drawing.Size(56, 24);
+            this.rbtNoFrecuencia.TabIndex = 106;
+            this.rbtNoFrecuencia.TabStop = true;
+            this.rbtNoFrecuencia.Text = "NO";
+            this.rbtNoFrecuencia.UseVisualStyleBackColor = true;
+            // 
             // frmCliente
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(1003, 749);
+            this.ClientSize = new System.Drawing.Size(1003, 779);
+            this.Controls.Add(this.rbtNoFrecuencia);
+            this.Controls.Add(this.rbtSiFrecuencia);
+            this.Controls.Add(this.cmbNacionalidadCliente);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.btnListar);
@@ -429,13 +424,9 @@
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.btnVolverMenuRegistro);
-            this.Controls.Add(this.chkNoFrecuencia);
-            this.Controls.Add(this.chkSiFrecuencia);
             this.Controls.Add(this.lblFrecuenciaCliente);
             this.Controls.Add(this.lblCliente);
             this.Controls.Add(this.dtvCliente);
-            this.Controls.Add(this.txtNacionalidadCliente);
             this.Controls.Add(this.lblNacionalidadCliente);
             this.Controls.Add(this.dtpFechaNacimientoCliente);
             this.Controls.Add(this.lblFechaNacimientoCliente);
@@ -488,13 +479,9 @@
         private System.Windows.Forms.Label lblFechaNacimientoCliente;
         private System.Windows.Forms.DateTimePicker dtpFechaNacimientoCliente;
         private System.Windows.Forms.Label lblNacionalidadCliente;
-        private System.Windows.Forms.TextBox txtNacionalidadCliente;
         private System.Windows.Forms.DataGridView dtvCliente;
         private System.Windows.Forms.Label lblCliente;
         private System.Windows.Forms.Label lblFrecuenciaCliente;
-        private System.Windows.Forms.CheckBox chkSiFrecuencia;
-        private System.Windows.Forms.CheckBox chkNoFrecuencia;
-        private System.Windows.Forms.Button btnVolverMenuRegistro;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnEliminar;
@@ -502,5 +489,8 @@
         private System.Windows.Forms.Button btnActualizar;
         private System.Windows.Forms.Button btnBuscar;
         private System.Windows.Forms.Button btnAgregar;
+        private System.Windows.Forms.ComboBox cmbNacionalidadCliente;
+        private System.Windows.Forms.RadioButton rbtSiFrecuencia;
+        private System.Windows.Forms.RadioButton rbtNoFrecuencia;
     }
 }
